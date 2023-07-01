@@ -1,5 +1,8 @@
 Erik Pulatov
-Leander, TX 78641 || Cell phone: +1 (512) 761-7377 || Email: epulatov@gmail.com LinkedIn: https://www.linkedin.com/in/erikpulatov
+Leander, TX 78641 
+Cell phone: +1 (512) 761-7377
+Email: epulatov@gmail.com 
+LinkedIn: https://www.linkedin.com/in/erikpulatov
 US Citizen - Authorized to work for any US employer
 
 Objective:
