@@ -1,0 +1,20 @@
+.page {
+    margin: 0;
+    padding: 0;
+   
+}
+
+.page__container {
+    background-color: gold;
+    font-size: 1em;
+    background-size: cover;
+    margin: 120px auto;
+    width: 80%;
+    display: block;
+}
+
+.personal_info {
+  margin: o;
+  padding: 0;
+}
+
